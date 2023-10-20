@@ -11,12 +11,12 @@ About Me
 Skills
 👨‍💻 Proficient in:
 
-- HTML
-- CSS
-- Java
-- Python
-- C
-- MySQL
+HTML
+CSS
+Java
+Python
+C
+MySQL
 💡 Constantly learning and expanding my skill set.
 
 What You'll Find Here
