@@ -17,7 +17,8 @@ Java
 Python
 C
 MySQL
-💡 Constantly learning and expanding my skill set.
+
+  💡 Constantly learning and expanding my skill set.
 
 What You'll Find Here
 📦 Repositories with projects and code snippets in various languages.
